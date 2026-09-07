@@ -1,0 +1,6 @@
+{
+  "name": "AutoTube Studio",
+  "description": "Production-grade automated AI animation pipeline and YouTube publishing studio for high-quality children's storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
